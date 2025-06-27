@@ -11,7 +11,7 @@
       😁
     </h2>
     <img
-      src="https://images.squarespace-cdn.com/content/v1/5b0e8599af2096a0df635bd1/1540856210882-A8IHGXRV5Z2IPPJI31QT/keroppi.png?format=1500w"
+      src="https://d2ur3228349jyd.cloudfront.net/assets/img/characters/mv/keroppi.png"
       alt="Keroppi"
       width="200"
     />
