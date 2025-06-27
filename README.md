@@ -16,6 +16,7 @@
       src="frog.png"
       alt="Keroppi"
       width="200"
+      style="background: transparent;"
     />
     </div>
 
