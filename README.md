@@ -11,7 +11,6 @@
       😁
     </h2>
     <div>
-      id=frog_img
     <img
       src="https://d2ur3228349jyd.cloudfront.net/assets/img/characters/mv/keroppi.png"
       alt="Keroppi"
