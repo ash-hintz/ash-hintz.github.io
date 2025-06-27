@@ -11,8 +11,7 @@
       😁
     </h2>
     <img
-      id="frog"
-      src="frog.png"
+      src="https://images.squarespace-cdn.com/content/v1/5b0e8599af2096a0df635bd1/1540856210882-A8IHGXRV5Z2IPPJI31QT/keroppi.png?format=1500w"
       alt="Keroppi"
       width="200"
     />
