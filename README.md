@@ -10,11 +10,13 @@
       My name is Ashelie! I'm a Software Engineer Intern at Stile from the US!
       😁
     </h2>
+    <div>
     <img
       src="https://d2ur3228349jyd.cloudfront.net/assets/img/characters/mv/keroppi.png"
       alt="Keroppi"
       width="200"
     />
+    </div>
 
     <h1>Two truths and a lie!</h1>
     <h2>Click which one is the lie and I will tell you if you are correct!</h2>
