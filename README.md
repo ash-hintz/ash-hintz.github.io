@@ -11,6 +11,7 @@
       😁
     </h2>
     <div>
+      id=frog_img
     <img
       src="frog.png"
       alt="Keroppi"
