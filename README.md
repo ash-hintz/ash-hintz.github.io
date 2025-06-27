@@ -20,18 +20,18 @@
     <h1>Two truths and a lie!</h1>
     <h2>Click which one is the lie and I will tell you if you are correct!</h2>
 
-    <form action="duck.html">
+    <form action="/duck.html">
       <input type="submit" value="I have a pet duck." class="button" />
     </form>
 
-    <form action="wwii.html">
+    <form action="/wwii.html">
       <input
         type="submit"
         value="My grandfather fought in World War II."
         class="button"
       />
     </form>
-    <form action="languages.html">
+    <form action="/languages.html">
       <input type="submit" value="I speak 3 languages." class="button" />
     </form>
 
