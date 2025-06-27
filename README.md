@@ -3,54 +3,38 @@
   <head>
     <meta charset="UTF-8" />
     <title>Ashelie's website</title>
-    <style>
-      body {
-        background-image: url("https://img.freepik.com/premium-vector/grid-background-design-pastel-colors_336924-4592.jpg");
-        background-size: cover;
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        background-position: center;
-        margin: 0;
-        padding: 0;
-        height: 100vh;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-      }
-      h1 {
-        color: rgb(73, 99, 182);
-        text-align: center;
-        font-family: monospace;
-      }
-      h2 {
-        color: rgb(73, 99, 182);
-        font-family: monospace;
-      }
-      p {
-        color: rgb(73, 99, 182);
-        font-family: monospace;
-      }
-      #languages {
-        color: rgb(73, 99, 182);
-        font-family: monospace;
-      }
-    </style>
   </head>
-
+  <link rel="stylesheet" href="styles.css" />
   <body>
     <h1>About me!</h1>
-    <p>
+    <h2>
       My name is Ashelie! I'm a Software Engineer Intern at Stile from the US!
       😁
-    </p>
+    </h2>
     <img
+      id="frog"
       src="https://static.wikia.nocookie.net/hellokitty/images/d/d1/Sanrio_Characters_Keroppi_Image008.png/revision/latest?cb=20170405011801"
       alt="Keroppi"
       width="200"
     />
 
-    <button type="button">Click Me!</button>
+    <h1>Two truths and a lie!</h1>
+    <h2>Click which one is the lie and I will tell you if you are correct!</h2>
+
+    <form action="pet_duck.html">
+      <input type="submit" value="I have a pet duck." class="button" />
+    </form>
+
+    <form action="worldwar2.html">
+      <input
+        type="submit"
+        value="My grandfather fought in World War II."
+        class="button"
+      />
+    </form>
+    <form action="three_languages.html">
+      <input type="submit" value="I speak 3 languages." class="button" />
+    </form>
 
     <!--
     <h2> Languages I speak!</h2>
