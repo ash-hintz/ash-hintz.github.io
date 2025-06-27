@@ -14,6 +14,9 @@ body {
         flex-direction: column;
         align-items: center;
       }
+#frog {
+        align-items: center;
+}
       h1 {
         color: rgb(73, 99, 182);
         text-align: center;
