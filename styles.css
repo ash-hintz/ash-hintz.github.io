@@ -48,7 +48,7 @@ body {
         background-color: #4761b2;
         color: #e1f6e9;
       }
-      #back_button {
+      .back {
         position: absolute;
         bottom: 20px;
         right: 20px;
