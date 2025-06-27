@@ -13,7 +13,7 @@
     <div>
     <img
       class = frog
-      src="https://d2ur3228349jyd.cloudfront.net/assets/img/characters/mv/keroppi.png"
+      src="frog.png"
       alt="Keroppi"
       width="200"
     />
