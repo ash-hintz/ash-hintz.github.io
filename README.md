@@ -12,7 +12,7 @@
     </h2>
     <img
       id="frog"
-      src="frog.webp"
+      src="frog.png"
       alt="Keroppi"
       width="200"
     />
