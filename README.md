@@ -13,7 +13,7 @@
     </h2>
     <img
       id="frog"
-      src="https://static.wikia.nocookie.net/hellokitty/images/d/d1/Sanrio_Characters_Keroppi_Image008.png/revision/latest?cb=20170405011801"
+      src="frog.webp"
       alt="Keroppi"
       width="200"
     />
