@@ -20,27 +20,16 @@
     <h1>Two truths and a lie!</h1>
     <h2>Click which one is the lie and I will tell you if you are correct!</h2>
 
-    <form action="/duck.html">
-      <input type="submit" value="I have a pet duck." class="button" />
-    </form>
+    <a href="/duck.html">
+      <button class="button">I have a pet duck.</button>
+    </a>
 
-    <form action="/wwii.html">
-      <input
-        type="submit"
-        value="My grandfather fought in World War II."
-        class="button"
-      />
-    </form>
-    <form action="/languages.html">
-      <input type="submit" value="I speak 3 languages." class="button" />
-    </form>
+    <a href="/wwii.html">
+      <button class="button">My grandfather fought in World War II.</button>
+    </a>
 
-    <!--
-    <h2> Languages I speak!</h2>
-    <ul id = "languages">
-      <li>English</li>
-      <li>French</li>
-      <li>Chinese</li>
-      -->
+    <a href="/languages.html">
+      <button class="button">I speak 3 languages.</button>
+    </a>
   </body>
 </html>
